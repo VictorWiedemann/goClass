@@ -9,7 +9,7 @@ func main() {
 	distance := 60.8
 	fmt.Printf("The distance in miles is %f \n", distance*0.62137)
 
-}*/
+}
 
 package main
 
@@ -23,4 +23,7 @@ func SayHello() {
 
 	var x int = 10
 	_ = x
-}
+}*/
+
+//Variables in Go
+
